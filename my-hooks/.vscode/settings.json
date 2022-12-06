@@ -1,0 +1,8 @@
+{
+  "json.format.keepLines": false,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+  "editor.tokenColorCustomizations": {
+    "comments": "",
+    "textMateRules": []
+  }
+}
